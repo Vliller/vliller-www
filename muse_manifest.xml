@@ -1,10 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vliller.alexetmanon.com" resolutions="1x" timestamp="1475483406603">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vliller.alexetmanon.com" resolutions="1x" timestamp="1475485303598">
   <folder name="css">
     <file name="site_global.css" crc="3758814019"/>
-    <file name="master_a-master.css" crc="4200290536" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4254881797" ref="index"/>
-    <file name="index.css" crc="172230153" ref="index"/>
-    <file name="nomq_index.css" crc="4290895179" ref="index"/>
+    <file name="index.css" crc="169343270" ref="index"/>
+    <file name="nomq_index.css" crc="219276864" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -37,5 +35,5 @@
     <file name="landingpage3-03250x463.png" crc="3933253585" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="418905556" seo="true" mt="1475483380088" redirect="true"/>
+  <file name="index.html" crc="229643143" seo="true" mt="1475485274522" redirect="true"/>
 </manifest>
