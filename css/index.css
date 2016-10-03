@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001A;
-	background-color: #A7D8FB;
+	color: #00000A;
+	background-color: #440609;
 }
 
 .js body
@@ -580,14 +580,14 @@
 
 #u468-8
 {
-	line-height: 21px;
-	font-weight: 500;
-	color: #666666;
 	font-family: roboto, sans-serif;
-	background-color: transparent;
 	text-align: center;
 	z-index: 97;
 	min-height: 37px;
+	line-height: 21px;
+	font-weight: 500;
+	background-color: transparent;
+	color: #666666;
 }
 
 #u1532
@@ -631,7 +631,6 @@
 #u1377
 {
 	margin-left: 50%;
-	left: -91px;
 	margin-right: -10000px;
 	z-index: 86;
 	width: 53px;
@@ -829,7 +828,7 @@
 
 	#u243
 	{
-		min-height: 1202.9766055045882px;
+		min-height: 1202.976605504588px;
 		background: -webkit-gradient(linear, center top, center bottom, from(#E0333C),color-stop(100%, #FFFFFF));
 		background: -webkit-linear-gradient(top,#E0333C ,#FFFFFF 100%);
 		background: linear-gradient(to bottom,#E0333C ,#FFFFFF 100%);
@@ -940,7 +939,7 @@
 
 	#u243-bw
 	{
-		min-height: 1202.9766055045882px;
+		min-height: 1202.976605504588px;
 		margin-top: 145px;
 	}
 
@@ -1056,6 +1055,11 @@
 	#u1368-bw
 	{
 		min-height: 235px;
+	}
+
+	#u1377
+	{
+		left: -91px;
 	}
 
 	#u1385
@@ -1424,6 +1428,11 @@
 		min-height: 235px;
 	}
 
+	#u1377
+	{
+		left: -91px;
+	}
+
 	#u1385
 	{
 		left: 39px;
@@ -1435,7 +1444,7 @@
 	}
 }
 
-@media (min-width: 323px) and (max-width: 601px)
+@media (min-width: 351px) and (max-width: 601px)
 {
 	#muse_css_mq
 	{
@@ -1525,24 +1534,24 @@
 
 	#u165-4
 	{
+		width: 318px;
 		line-height: 38px;
 		font-size: 38px;
 		position: relative;
-		width: 58.91%;
-		margin-left: 20.55%;
-		left: -8px;
+		margin-left: 50%;
+		left: -168px;
 	}
 
 	#u173-4
 	{
-		width: 435px;
-		margin-top: 18px;
-		left: -218px;
+		width: 317px;
+		margin-top: 10px;
+		left: -159px;
 	}
 
 	#u2202
 	{
-		margin-top: 31px;
+		margin-top: 15px;
 		left: -142px;
 	}
 
@@ -1629,10 +1638,10 @@
 
 	#u1517-4
 	{
-		width: 394px;
 		margin-top: 12px;
-		margin-left: 50%;
-		left: -198px;
+		width: 84.86%;
+		margin-left: 7.58%;
+		left: 0px;
 	}
 
 	#u1445
@@ -1645,10 +1654,10 @@
 
 	#u1518-4
 	{
-		width: 482px;
 		margin-top: 19px;
-		margin-left: 50%;
-		left: -242px;
+		width: 80.2%;
+		margin-left: 9.91%;
+		left: -1px;
 	}
 
 	#u1459,#u1507
@@ -1661,10 +1670,10 @@
 
 	#u1529-4
 	{
-		width: 496px;
 		margin-top: 13px;
-		margin-left: 50%;
-		left: -249px;
+		width: 82.53%;
+		margin-left: 8.74%;
+		left: -1px;
 	}
 
 	#u243-bw
@@ -1734,39 +1743,43 @@
 
 	#u446
 	{
-		min-height: 359px;
+		min-height: 358.64999999999964px;
+		padding-bottom: 0px;
 	}
 
 	#u446_align_to_page
 	{
 		max-width: 601px;
 		padding-top: 54px;
-		padding-bottom: 42px;
+		padding-bottom: 36px;
 	}
 
 	#u467-4
 	{
-		left: 176px;
+		width: 249px;
 		position: relative;
-		width: 41.44%;
+		margin-left: 50%;
+		left: -125px;
+	}
+
+	#u468-8
+	{
+		margin-top: 16px;
+		position: relative;
+		width: 85.03%;
+		margin-left: 7.49%;
+		left: 0px;
 	}
 
 	#u1532
 	{
-		margin-top: 107px;
+		margin-top: 12px;
 	}
 
 	#u446-bw
 	{
-		min-height: 359px;
+		min-height: 358.64999999999964px;
 		margin-top: 418px;
-	}
-
-	#u468-8-bw
-	{
-		z-index: 97;
-		min-height: 37px;
-		margin-top: 570px;
 	}
 
 	#u1368
@@ -1785,7 +1798,7 @@
 	#u512-4
 	{
 		margin-top: 223px;
-		left: -481px;
+		left: -334px;
 	}
 
 	#u1368-bw
@@ -1793,25 +1806,30 @@
 		min-height: 235px;
 	}
 
+	#u1377
+	{
+		left: 57px;
+	}
+
 	#u1385
 	{
-		left: 39px;
+		left: 186px;
 	}
 
 	#u1392
 	{
-		left: -27px;
+		left: 121px;
 	}
 }
 
-@media (max-width: 322px)
+@media (max-width: 350px)
 {
 	#muse_css_mq
 	{
-		background-color: #000142;
+		background-color: #00015e;
 	}
 
-	#bp_322.active
+	#bp_350.active
 	{
 		display: block;
 	}
@@ -1819,7 +1837,7 @@
 	#page
 	{
 		min-height: 3475px;
-		max-width: 322px;
+		max-width: 350px;
 	}
 
 	#u1087
@@ -1830,7 +1848,7 @@
 
 	#u1087_align_to_page
 	{
-		max-width: 322px;
+		max-width: 350px;
 		padding-top: 98px;
 		padding-bottom: 76px;
 	}
@@ -1898,36 +1916,36 @@
 
 	#u186_align_to_page
 	{
-		max-width: 322px;
+		max-width: 350px;
 	}
 
 	#u186_position_content
 	{
 		margin-bottom: -36px;
-		padding-top: 14px;
+		padding-top: 31px;
 		width: 100%;
 	}
 
 	#u165-4
 	{
+		width: 284px;
 		line-height: 34px;
 		font-size: 34px;
 		position: relative;
-		width: 59.01%;
-		margin-left: 20.5%;
-		left: 0px;
+		margin-left: 50%;
+		left: -142px;
 	}
 
 	#u173-4
 	{
 		width: 285px;
-		margin-top: 23px;
+		margin-top: 20px;
 		left: -143px;
 	}
 
 	#u2202
 	{
-		margin-top: 29px;
+		margin-top: 49px;
 		left: -142px;
 	}
 
@@ -1981,7 +1999,7 @@
 
 	#u243
 	{
-		min-height: 2697px;
+		min-height: 2648px;
 		background: -webkit-gradient(linear, center top, center bottom, from(#E0333C),color-stop(100%, #FFFFFF));
 		background: -webkit-linear-gradient(top,#E0333C ,#FFFFFF 100%);
 		background: linear-gradient(to bottom,#E0333C ,#FFFFFF 100%);
@@ -1989,7 +2007,7 @@
 
 	#u243_align_to_page
 	{
-		max-width: 322px;
+		max-width: 350px;
 		padding-top: 57px;
 		padding-bottom: 80px;
 	}
@@ -1999,9 +2017,9 @@
 		line-height: 33px;
 		text-align: center;
 		font-size: 33px;
-		width: 75.16%;
-		margin-left: 24.85%;
-		left: -40px;
+		width: 75.15%;
+		margin-left: 12.43%;
+		left: -1px;
 	}
 
 	#u5443
@@ -2015,9 +2033,9 @@
 	#u216-14
 	{
 		margin-top: 31px;
-		width: 79.51%;
-		margin-left: 20.5%;
-		left: -30px;
+		width: 79.72%;
+		margin-left: 20.29%;
+		left: -29px;
 	}
 
 	#u1517-4
@@ -2062,7 +2080,7 @@
 
 	#u243-bw
 	{
-		min-height: 2697px;
+		min-height: 2648px;
 	}
 
 	#u244
@@ -2073,7 +2091,7 @@
 
 	#u244_align_to_page
 	{
-		max-width: 322px;
+		max-width: 350px;
 		padding-top: 51px;
 		padding-bottom: 83px;
 	}
@@ -2122,16 +2140,17 @@
 
 	#u446_align_to_page
 	{
-		max-width: 322px;
+		max-width: 350px;
 		padding-top: 41px;
 		padding-bottom: 42px;
 	}
 
 	#u467-4
 	{
-		left: 49px;
 		position: relative;
-		width: 69.26%;
+		width: 69.43%;
+		margin-left: 15.29%;
+		left: -1px;
 	}
 
 	#u468-8
@@ -2139,7 +2158,7 @@
 		left: 25px;
 		margin-top: 24px;
 		position: relative;
-		width: 84.48%;
+		width: 84.58%;
 	}
 
 	#u1532
@@ -2155,6 +2174,11 @@
 	#u1368,#u1368-bw
 	{
 		height: 269px;
+	}
+
+	#u1377
+	{
+		left: -91px;
 	}
 
 	#u1385

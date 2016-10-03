@@ -146,7 +146,7 @@
 
 	#u243
 	{
-		min-height: 1202.9766055045882px;
+		min-height: 1202.976605504588px;
 		background: -webkit-gradient(linear, center top, center bottom, from(#E0333C),color-stop(100%, #FFFFFF));
 		background: -webkit-linear-gradient(top,#E0333C ,#FFFFFF 100%);
 		background: linear-gradient(to bottom,#E0333C ,#FFFFFF 100%);
@@ -257,7 +257,7 @@
 
 	#u243-bw
 	{
-		min-height: 1202.9766055045882px;
+		min-height: 1202.976605504588px;
 		margin-top: 145px;
 	}
 
@@ -373,6 +373,11 @@
 	#u1368-bw
 	{
 		min-height: 235px;
+	}
+
+	#u1377
+	{
+		left: -91px;
 	}
 
 	#u1385

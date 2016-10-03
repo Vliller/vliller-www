@@ -60,11 +60,11 @@
 
 }
 
-@media (min-width: 323px) and (max-width: 601px)
+@media (min-width: 351px) and (max-width: 601px)
 {
 	#u1368_align_to_page
 	{
-		max-width: 601px;
+		max-width: 895px;
 	}
 
 }

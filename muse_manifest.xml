@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vliller.alexetmanon.com" resolutions="1x" timestamp="1475455768620">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vliller.alexetmanon.com" resolutions="1x" timestamp="1475483406603">
   <folder name="css">
     <file name="site_global.css" crc="3758814019"/>
-    <file name="master_a-master.css" crc="3897511381" ref="index"/>
+    <file name="master_a-master.css" crc="4200290536" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4254881797" ref="index"/>
-    <file name="index.css" crc="447207675" ref="index"/>
-    <file name="nomq_index.css" crc="40293838" ref="index"/>
+    <file name="index.css" crc="172230153" ref="index"/>
+    <file name="nomq_index.css" crc="4290895179" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -15,6 +15,7 @@
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="4086491150" ref="index"/>
     <file name="header-velo3.jpg" crc="512212005" ref="index"/>
     <file name="vliller-landing_icone-logo.png" crc="4017499119" seo="true" ref="index"/>
     <file name="android-app-on-google-play.svg" crc="239001517" ref="index"/>
@@ -36,5 +37,5 @@
     <file name="landingpage3-03250x463.png" crc="3933253585" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="289193936" seo="true" mt="1475455714753" redirect="true"/>
+  <file name="index.html" crc="418905556" seo="true" mt="1475483380088" redirect="true"/>
 </manifest>
