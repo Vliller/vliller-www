@@ -23,7 +23,7 @@
 	#u1087_align_to_page
 	{
 		max-width: 960px;
-		padding-top: 164px;
+		padding-top: 162px;
 		padding-bottom: 62px;
 	}
 
@@ -33,42 +33,48 @@
 		left: -145px;
 	}
 
-	#pu1102-4
+	#u8201-4
 	{
-		margin-top: 8px;
+		margin-top: 5px;
+		left: 279px;
 	}
 
-	#u1102-4
+	#pu152-4
 	{
-		width: 401px;
-		line-height: 34px;
-		font-size: 26px;
-		left: -201px;
+		top: -5px;
+		margin-bottom: -5px;
+		position: relative;
+		width: 100%;
 	}
 
 	#u152-4
 	{
 		width: 401px;
 		margin-right: -10000px;
-		margin-top: 175px;
+		margin-top: 136px;
 		left: -201px;
 	}
 
 	#u1199
 	{
-		margin-top: 39px;
 		left: -196px;
 	}
 
 	#u1199:hover
 	{
-		margin-top: 39px;
+		margin-top: 0px;
 		left: -196px;
 	}
 
 	#u1213
 	{
-		margin-top: 87px;
+		margin-top: 48px;
+		left: 9px;
+	}
+
+	#u1213:hover
+	{
+		margin-top: 48px;
 		left: 9px;
 	}
 
@@ -180,6 +186,7 @@
 
 	#pu217-4
 	{
+		padding-bottom: 0px;
 		margin-right: -10000px;
 		margin-top: 208px;
 		width: 44.38%;
@@ -198,7 +205,7 @@
 
 	#u216-14
 	{
-		margin-top: 25px;
+		margin-top: 18px;
 		width: 100%;
 		margin-left: 0%;
 		left: 213px;
@@ -272,6 +279,11 @@
 		padding-bottom: 104px;
 	}
 
+	#u243_align_to_page,#u244_align_to_page
+	{
+		max-width: 960px;
+	}
+
 	#u1222-4
 	{
 		width: 547px;
@@ -305,6 +317,12 @@
 		left: 9px;
 	}
 
+	#u1226:hover
+	{
+		margin-top: 191px;
+		left: 9px;
+	}
+
 	#u244-bw
 	{
 		min-height: 329px;
@@ -315,26 +333,27 @@
 		width: 100%;
 	}
 
-	#u446
-	{
-		min-height: 322px;
-		padding-bottom: 82px;
-	}
-
-	#u243_align_to_page,#u244_align_to_page,#u446_align_to_page
+	#u446_align_to_page
 	{
 		max-width: 960px;
+		padding-top: 154px;
+		padding-bottom: 72px;
+	}
+
+	#u468-8
+	{
+		left: 213px;
+		width: 55.63%;
 	}
 
 	#u1532
 	{
-		margin-right: -10000px;
-		margin-top: 242px;
+		margin-top: 15px;
 	}
 
-	#u446-bw
+	#u446,#u446-bw
 	{
-		min-height: 322px;
+		min-height: 404px;
 	}
 
 	#u467-4-bw
@@ -342,13 +361,6 @@
 		z-index: 80;
 		min-height: 38px;
 		margin-top: 91px;
-	}
-
-	#u468-8-bw
-	{
-		z-index: 84;
-		min-height: 37px;
-		margin-top: 154px;
 	}
 
 	#screenshot

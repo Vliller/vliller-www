@@ -2,91 +2,229 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vliller.alexetmanon.com/images/vliller-landing_icone-logo.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage_fonction1.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage_fonction2.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage_fonction3.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage3-03.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage-04.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage-02.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage3-05.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage_mail.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage_aetm-facebook.png</loc>
-    <lastmod>2016-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vliller.alexetmanon.com/images/landingpage_aetm-gith.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage_aetm-twitt.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_aetm-gith.png</loc>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage3-03250x464.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/images/landingpage3-03250x463.png</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_fonction1_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_fonction2_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_fonction3_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-04230x427.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-04230x427_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-02230x427.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-02230x427_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage3-05230x427.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage3-05230x427_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_mail_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_aetm-facebook_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_aetm-twitt_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage_aetm-gith_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage3-03331x612.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-04215x398.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-04215x398_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-02215x398.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-02215x398_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage3-05215x398.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage3-05215x398_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-04_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage-02_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vliller.alexetmanon.com/images/landingpage3-05_2x.png</loc>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vliller.alexetmanon.com/index.html</loc>
-    <lastmod>2016-10-03</lastmod>
+    <lastmod>2016-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
