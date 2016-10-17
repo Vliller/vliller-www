@@ -1,6 +1,7 @@
 $warm-grey: #9b9b9b;
 $brownish-grey: #666666;
 $light-burgundy: #ab2c46;
+$scarlet: #d0021b;
 
 h2 {
     font-weight: 100;
@@ -29,7 +30,23 @@ p {
     background-image: linear-gradient(to top, rgba(244, 80, 95, 0.0), #9f041b);
 }
 
+.vliller--white-bg {
+    background-color: $white;
+
+    h2 {
+        color: $warm-grey;
+    }
+
+    h3, p {
+        color: $brownish-grey;
+    }
+}
+
 .vliller--box-padding {
+    padding: 4em 2em;
+}
+
+.vliller--header {
     padding: 6em 2em;
 }
 
@@ -44,19 +61,10 @@ p {
 }
 
 .vliller--functions {
-    background-color: $white;
-
-    h2 {
-        margin-top: 0;
-        color: $warm-grey;
-    }
+    padding-bottom: 6em;
 
     h3 {
         color: $light-burgundy;
-    }
-
-    p {
-        color: $brownish-grey;
     }
 }
 
@@ -68,10 +76,40 @@ p {
     max-width: 50%;
 }
 
+.vliller--capture-main {
+    margin-top: -8em;
+    max-width: 90%;
+}
+
+.vliller--captures {
+    margin-top: 5em;
+
+    .column {
+        padding: 0 1.5em;
+    }
+}
+
+.vliller--captures--text {
+    text-align: center;
+    margin-top: 1em;
+    color: $scarlet;
+}
+
 .vliller--download--info {
     color: $white;
     opacity: 0.6;
     margin: 0.5em 0;
+}
+
+.vliller--contrib {
+    h2 {
+        margin-bottom: 0;
+    }
+}
+
+.vliller--contrib--logo {
+    margin: 0.5em;
+    max-width: 100px;
 }
 
 .vliller--footer {
