@@ -1,6 +1,16 @@
+$warm-grey: #9b9b9b;
+$brownish-grey: #666666;
+$light-burgundy: #ab2c46;
+
 h2 {
     font-weight: 100;
     font-size: 38px;
+    margin: 0.5em 0;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 300;
     margin: 0.5em 0;
 }
 
@@ -12,6 +22,11 @@ p {
     color: $white;
     background: #9f041b url(../img/header.png) no-repeat center center;
     background-size: cover;
+}
+
+.vliller--gradient-bg {
+    color: $white;
+    background-image: linear-gradient(to top, rgba(244, 80, 95, 0.0), #9f041b);
 }
 
 .vliller--box-padding {
@@ -26,6 +41,31 @@ p {
 .vliller--header--store-logo {
     margin: 0.5em;
     min-width: 15%;
+}
+
+.vliller--functions {
+    background-color: $white;
+
+    h2 {
+        margin-top: 0;
+        color: $warm-grey;
+    }
+
+    h3 {
+        color: $light-burgundy;
+    }
+
+    p {
+        color: $brownish-grey;
+    }
+}
+
+.vliller--functions--details {
+    margin-top: 2em;
+}
+
+.vliller--functions--logo {
+    max-width: 50%;
 }
 
 .vliller--download--info {
