@@ -1,7 +1,7 @@
 {
-  "name": "foundation-zurb-template",
-  "version": "1.0.1",
-  "description": "Official ZURB Template for Foundation for Sites.",
+  "name": "vliller-www",
+  "version": "1.0.2",
+  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",

@@ -162,7 +162,7 @@ p {
     background-color: #AA2C45;
     padding: 4em 2em 1em 2em;
 
-    a {
+    p > a {
         color: $white;
         font-weight: bold;
 
