@@ -31,7 +31,7 @@ p {
 }
 
 .vliller--white-bg {
-    background-color: $white;
+    // background-color: $white;
 
     h2 {
         color: $warm-grey;
@@ -61,8 +61,6 @@ p {
 }
 
 .vliller--functions {
-    padding-bottom: 6em;
-
     h3 {
         color: $light-burgundy;
     }
@@ -70,18 +68,37 @@ p {
 
 .vliller--functions--details {
     margin-top: 2em;
+
+    .column {
+        margin-bottom: 2em;
+    }
 }
 
 .vliller--functions--logo {
     max-width: 50%;
+
+    @include breakpoint(small only) {
+        max-width: 33%;
+    }
 }
 
-.vliller--capture-main {
+.vliller--captures {
+    @include breakpoint(small only) {
+        text-align: center;
+    }
+}
+
+.vliller--captures-main {
     margin-top: -7em;
     max-width: 95%;
+
+    @include breakpoint(small only) {
+        max-width: 80%;
+    }
 }
 
-.vliller--capture--list {
+.vliller--captures--list {
+    text-align: left;
     margin-left: 0;
     list-style: none; /* Remove list bullets */
 
@@ -96,15 +113,24 @@ p {
     }
 }
 
-.vliller--captures {
+.vliller--captures--seconds {
     margin-top: 5em;
 
     .column {
         padding: 0 1.5em;
     }
+
+    @include breakpoint(small only) {
+        margin-top: 2em;
+
+        img {
+            max-width: 80%;
+        }
+
+    }
 }
 
-.vliller--captures--text {
+.vliller--captures--seconds--text {
     text-align: center;
     margin-top: 1em;
     color: $scarlet;
@@ -151,7 +177,7 @@ p {
     margin: 0.4em;
 }
 
-.vliller--footer--copy {
+.vliller--footer--update {
     font-size: 12px;
     margin-top: 2em;
     opacity: 0.6;
