@@ -15,7 +15,7 @@ printf "\033[1;35mCreates release \e[0m\n"
 git checkout -b $BRANCH_NAME develop
 
 # log modifications
-# ./bump-version.py $RELEASE_VERSION
+./bump-version.py $RELEASE_VERSION
 git commit -am "Release version $RELEASE_VERSION"
 
 # merge into master
