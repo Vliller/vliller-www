@@ -1,8 +1,20 @@
-$white: #FFF;
+.vliller--header--container {
+    background: #9f041b url(../img/header.png) no-repeat center center;
+    background-size: cover;
+}
 
 .vliller--header {
-    background: #FFFFFF url(../img/header-velo2.png) no-repeat center center;
-    background-size: cover;
+    padding: 6em 2em;
+}
+
+.vliller--header--logo {
+    margin: 2em 0;
+    min-width: 20%;
+}
+
+.vliller--header--store-logo {
+    margin: 0.5em;
+    min-width: 15%;
 }
 
 .vliller--footer {
