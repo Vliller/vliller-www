@@ -1,10 +1,10 @@
 {
-  "name": "foundation-ssg",
+  "name": "vliller-www",
   "version": "1.0.1",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "alexetmanon <wall-e@alexetmanon.com>"
   ],
-  "description": "Static site generator for Foundation for Sites.",
+  "description": "",
   "main": "gulpfile.js",
   "license": "MIT",
   "ignore": [
