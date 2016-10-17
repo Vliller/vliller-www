@@ -6,8 +6,6 @@
 @import 'foundation';
 @import 'motion-ui';
 
-@import 'components/vliller';
-
 @include foundation-global-styles;
 @include foundation-grid;
 // @include foundation-flex-grid;
@@ -52,3 +50,6 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+// custom styles
+@import 'components/vliller';
