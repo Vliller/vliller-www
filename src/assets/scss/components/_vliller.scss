@@ -47,7 +47,7 @@ p {
 }
 
 .vliller--header {
-    padding: 6em 2em;
+    padding: 8em 2em;
 }
 
 .vliller--header--logo {
@@ -77,8 +77,23 @@ p {
 }
 
 .vliller--capture-main {
-    margin-top: -8em;
-    max-width: 90%;
+    margin-top: -7em;
+    max-width: 95%;
+}
+
+.vliller--capture--list {
+    margin-left: 0;
+    list-style: none; /* Remove list bullets */
+
+    li {
+        line-height: 1.2;
+        margin-bottom: 6px;
+    }
+
+    li:before {
+        content: "-"; /* Insert content that looks like bullets */
+        padding-right: 5px;
+    }
 }
 
 .vliller--captures {
@@ -93,6 +108,10 @@ p {
     text-align: center;
     margin-top: 1em;
     color: $scarlet;
+}
+
+.vliller--download {
+    padding: 6em 2em;
 }
 
 .vliller--download--info {
@@ -115,4 +134,25 @@ p {
 .vliller--footer {
     color: $white;
     background-color: #AA2C45;
+    padding: 4em 2em 1em 2em;
+
+    a {
+        color: $white;
+        font-weight: bold;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.vliller--footer--logo {
+    max-width: 60px;
+    margin: 0.4em;
+}
+
+.vliller--footer--copy {
+    font-size: 12px;
+    margin-top: 2em;
+    opacity: 0.6;
 }
