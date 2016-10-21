@@ -21,7 +21,7 @@ p {
 
 .vliller--bike-bg {
     color: $white;
-    background: #9f041b url(../img/header.png) no-repeat center center;
+    background: #9f041b url(../img/header.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -53,6 +53,7 @@ p {
 .vliller--header--logo {
     margin: 2em 0;
     min-width: 20%;
+    max-width: 135px;
 }
 
 .vliller--header--store-logo {
