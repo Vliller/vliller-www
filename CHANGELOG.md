@@ -1,3 +1,7 @@
+# 2.0.2
+
+- Fix last update date
+
 # 2.0.1
 
 - Fix Windows 10 mention 
