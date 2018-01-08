@@ -1,3 +1,7 @@
+# 2.1.0
+
+- Update application screenshots
+
 # 2.0.2
 
 - Fix last update date
